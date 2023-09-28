@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class TextToggle : MonoBehaviour
 {
-    public GameObject infoGroup; // Drag your InfoGroup (or InfoText) object here in the Inspector.
+    public GameObject infoGroup;
 
     private Camera mainCamera;
 
